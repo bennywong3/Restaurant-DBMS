@@ -1,9 +1,13 @@
 # Restaurant-DBMS
-This is the backup of my database design project. The objective of this project is to go through the Database Design Process, so as to put the theory of database modelling and implementation into practice. I chose to design a Restaurant Management System. Below are the details of this project. You can view more details in the pdf.
+This is the backup of my database design project. The objective of this project is to go through the Database Design Process, so as to put the theory of database modelling and implementation into practice. I chose to design a Restaurant Management System. Below are the ER Model diagram and details of this project. You can view more details in the pdf.
 - - - -
-**Topic: Restaurant System**
+**ER Model diagram:**
+<img src="project_final.png">
+- - - -
+# Topic: Restaurant System #
 
 **Brief Description:**
+
 A system for the restaurant to keep track of customer information, order transactions, and table booking, in addition to standard enterprise information such as human resources and accounting.
 
 **Business rules:**
